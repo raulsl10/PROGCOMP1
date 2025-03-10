@@ -33,6 +33,7 @@ button{
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
+    
 }
 button:hover{
     background: linear-gradient(30deg, blue, orange, yellow, green,indigo, violet);
@@ -40,12 +41,8 @@ button:hover{
     transform: translateY(-2px);
 }
 a{
-    display: inline-block;
-    flex-direction: column; 
-    align-items: center; 
+    display: inline-block;   
 }
 a{
-    display: inline-block;
-    flex-direction: column; 
-    align-items: center;
+    display: inline-block
 }
